@@ -1,4 +1,6 @@
-### Hello! I am Varun Nawathey
+### Hello! My name is Varun Nawathey!
+
+Check out my blog! [hello](https://poltomo.github.io/hello/)
 
 <!--
 **poltomo/poltomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
